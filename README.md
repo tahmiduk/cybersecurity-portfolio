@@ -15,20 +15,8 @@
 - Python | Networking Fundamentals
 
 ## 📁 Projects
-- 🔍 [SOC Project — Network Threat Detection](link)
+- 🔍 [SOC Project — Network Threat Detection](https://github.com/tahmiduk/cybersecurity-portfolio/blob/main/SOC-Project/nmap-report.md)
 - 📋 GRC Risk Assessment Report (coming soon)
 
 ## 🌐 Connect
 - LinkedIn: https://www.linkedin.com/in/mdatahmid/
-```
-
----
-```
-tahmiduk/cybersecurity-portfolio
-        ├── SOC-Project/
-        │   ├── nmap-report.md ✅
-        │   ├── wireshark-analysis.md (next)
-        │   └── incident-report.md (later)
-        └── GRC-Project/
-            ├── risk-assessment.md (later)
-            └── security-policy.md (later)
