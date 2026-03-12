@@ -1,6 +1,6 @@
 # Wireshark Traffic Analysis
 **Date:** 12/03/2026
-**Analyst:** Ahnaf
+**Analyst:** Tahmid
 **Tool:** Wireshark 4.4.4
 
 ## Objective
