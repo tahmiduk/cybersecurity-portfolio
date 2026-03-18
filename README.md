@@ -14,30 +14,39 @@ SOC Analysis and GRC (Governance, Risk & Compliance).
 ## 📁 Projects
 
 ### 🔍 SOC Project — Network Threat Detection
-Hands-on network reconnaissance and traffic analysis 
-using Kali Linux.
+Hands-on network reconnaissance, traffic analysis and incident
+reporting using Kali Linux.
 
 | Report | Status |
 |---|---|
 | [NMAP Scan Report](SOC-Project/nmap-report.md) | ✅ Complete |
 | [Wireshark Traffic Analysis](SOC-Project/wireshark-analysis.md) | ✅ Complete |
-| Incident Report | 🔄 Coming Soon |
+| [Incident Report IR-2026-001](SOC-Project/incident-report.md) | ✅ Complete |
 
 ---
 
 ### 📋 GRC Project — Risk Assessment
-*(Coming Soon)*
+*(In Progress)*
+
+| Report | Status |
+|---|---|
+| Risk Assessment Report | 🔄 Coming Soon |
+| Security Policy Document | 🔄 Coming Soon |
+| GDPR Compliance Checklist | 🔄 Coming Soon |
 
 ---
 
 ## 🔧 Tools & Skills
 - Nmap | Wireshark | Kali Linux
-- TCP/IP | DNS | ICMP
+- TCP/IP | DNS | ICMP | NAT
+- Firewalls | VPNs | SSL/TLS
 - SIEM | Log Analysis
-- Risk Assessment | GRC Frameworks
+- GRC Frameworks | ISO 27001 | GDPR
+- Risk Assessment | Security Policy Writing
 
 ---
 
 ## 🛡️ Certifications (In Progress)
 - CompTIA Security+
 - ISO 27001 Foundation
+- TryHackMe SOC Level 1
