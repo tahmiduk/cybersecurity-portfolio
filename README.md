@@ -26,13 +26,14 @@ reporting using Kali Linux.
 ---
 
 ### 📋 GRC Project — Risk Assessment
-*(In Progress)*
+Full GRC risk assessment for a fictional UK software company
+applying ISO 27001 and GDPR frameworks.
 
 | Report | Status |
 |---|---|
-| Risk Assessment Report | 🔄 Coming Soon |
-| Security Policy Document | 🔄 Coming Soon |
-| GDPR Compliance Checklist | 🔄 Coming Soon |
+| [Risk Assessment Report](GRC-Project/risk-assessment.md) | ✅ Complete |
+| [Risk Register](GRC-Project/risk-register.md) | ✅ Complete |
+| [Information Security Policy](GRC-Project/security-policy.md) | ✅ Complete |
 
 ---
 
@@ -50,3 +51,10 @@ reporting using Kali Linux.
 - CompTIA Security+
 - ISO 27001 Foundation
 - TryHackMe SOC Level 1
+
+---
+
+## 🎯 Target Roles
+- Junior GRC Analyst
+- SOC Analyst L1
+- Information Security Analyst
