@@ -31,3 +31,37 @@ Immediate remediation is recommended for all HIGH rated risks.
 | Data Processed | Customer personal data |
 | Frameworks Applied | ISO 27001, GDPR |
 | Assessment Date | April 2026 |
+
+---
+
+## 3. Risk Identification
+
+The following risks were identified through review of 
+NexaTech Solutions' operations, systems and data handling 
+processes.
+
+| Risk ID | Risk Description | Category |
+|---|---|---|
+| R-001 | Unauthorised access to customer data | Data Security |
+| R-002 | Phishing attack on employees | Human Factor |
+| R-003 | Lack of data backup and recovery plan | Business Continuity |
+| R-004 | Unpatched software vulnerabilities | Technical |
+| R-005 | Non-compliance with GDPR requirements | Compliance |
+
+---
+
+## 4. Risk Analysis
+
+Each risk is scored using the following matrix:
+
+**Likelihood:** 1 (Rare) → 5 (Almost Certain)  
+**Impact:** 1 (Negligible) → 5 (Critical)  
+**Risk Score = Likelihood × Impact**
+
+| Risk ID | Likelihood | Impact | Risk Score |
+|---|---|---|---|
+| R-001 | 4 | 5 | 20 |
+| R-002 | 5 | 4 | 20 |
+| R-003 | 3 | 4 | 12 |
+| R-004 | 4 | 4 | 16 |
+| R-005 | 3 | 5 | 15 |
