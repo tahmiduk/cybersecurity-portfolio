@@ -65,3 +65,40 @@ Each risk is scored using the following matrix:
 | R-003 | 3 | 4 | 12 |
 | R-004 | 4 | 4 | 16 |
 | R-005 | 3 | 5 | 15 |
+
+---
+
+## 5. Risk Evaluation
+
+| Risk Score | Rating |
+|---|---|
+| 1 - 6 | 🟢 LOW |
+| 7 - 12 | 🟡 MEDIUM |
+| 13 - 19 | 🟠 HIGH |
+| 20 - 25 | 🔴 CRITICAL |
+
+| Risk ID | Risk Description | Score | Rating |
+|---|---|---|---|
+| R-001 | Unauthorised access to customer data | 20 | 🔴 CRITICAL |
+| R-002 | Phishing attack on employees | 20 | 🔴 CRITICAL |
+| R-003 | Lack of data backup and recovery plan | 12 | 🟡 MEDIUM |
+| R-004 | Unpatched software vulnerabilities | 16 | 🟠 HIGH |
+| R-005 | Non-compliance with GDPR requirements | 15 | 🟠 HIGH |
+
+---
+
+## 6. Risk Treatment
+
+### R-001 — Unauthorised Access to Customer Data 🔴 CRITICAL
+**Treatment:** Mitigate  
+- Implement Role-Based Access Control (RBAC)
+- Enforce Multi-Factor Authentication (MFA)
+- Conduct quarterly access reviews
+- Encrypt all customer data at rest and in transit
+
+### R-002 — Phishing Attack on Employees 🔴 CRITICAL
+**Treatment:** Mitigate  
+- Deliver mandatory phishing awareness training
+- Implement email filtering and anti-phishing tools
+- Conduct simulated phishing exercises quarterly
+- Establish clear incident reporting procedures
