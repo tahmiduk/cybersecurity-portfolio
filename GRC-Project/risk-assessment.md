@@ -102,3 +102,36 @@ Each risk is scored using the following matrix:
 - Implement email filtering and anti-phishing tools
 - Conduct simulated phishing exercises quarterly
 - Establish clear incident reporting procedures
+
+### R-003 — Lack of Data Backup and Recovery Plan 🟡 MEDIUM
+**Treatment:** Mitigate  
+- Implement automated daily backups
+- Store backups in a secure offsite/cloud location
+- Test backup restoration every 3 months
+- Document and maintain a Business Continuity Plan (BCP)
+
+### R-004 — Unpatched Software Vulnerabilities 🟠 HIGH
+**Treatment:** Mitigate  
+- Implement a patch management policy
+- Apply critical patches within 48 hours of release
+- Conduct monthly vulnerability scans using Nmap
+- Maintain an asset inventory of all software versions
+
+### R-005 — Non-Compliance with GDPR Requirements 🟠 HIGH
+**Treatment:** Mitigate  
+- Appoint a Data Protection Officer (DPO)
+- Conduct a full GDPR audit of data processing activities
+- Update Privacy Policy and Data Retention Policy
+- Train all staff on GDPR obligations annually
+
+---
+
+## 7. Risk Monitoring
+
+| Risk ID | Review Frequency | Owner |
+|---|---|---|
+| R-001 | Quarterly | IT Security Manager |
+| R-002 | Quarterly | HR & IT Security |
+| R-003 | Every 3 months | IT Manager |
+| R-004 | Monthly | IT Security Team |
+| R-005 | Annually | Data Protection Officer |
