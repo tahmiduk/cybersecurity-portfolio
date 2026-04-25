@@ -135,3 +135,34 @@ Each risk is scored using the following matrix:
 | R-003 | Every 3 months | IT Manager |
 | R-004 | Monthly | IT Security Team |
 | R-005 | Annually | Data Protection Officer |
+
+---
+
+## 8. Conclusion
+
+This risk assessment identified 5 risks across NexaTech 
+Solutions' operations. Two risks were rated CRITICAL and 
+require immediate attention:
+
+- **R-001** — Unauthorised access to customer data
+- **R-002** — Phishing attack on employees
+
+All identified risks have been assigned treatment plans and 
+monitoring schedules. It is recommended that NexaTech 
+Solutions reviews this risk assessment annually or following 
+any significant change to the business.
+
+---
+
+## 9. References
+
+- ISO/IEC 27001:2022 — Information Security Management
+- UK GDPR — General Data Protection Regulation
+- NCSC Cyber Essentials Framework
+- NIST SP 800-30 — Risk Assessment Guide
+
+---
+
+**Report prepared by:** Mohammad Ahnaf Tahmid  
+**Date:** April 2026  
+**GitHub:** github.com/tahmiduk/cybersecurity-portfolio
