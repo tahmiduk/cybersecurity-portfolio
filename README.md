@@ -37,6 +37,14 @@ applying ISO 27001 and GDPR frameworks.
 
 ---
 
+
+### 🔍 CyberDefenders Labs — SOC Investigations
+Real world blue team investigations using network forensics.
+
+| Lab | Category | Difficulty | Status |
+|---|---|---|---|
+| [WebStrike](CyberDefenders-Writeups/webstrike-writeup.md) | Network Forensics | Easy | ✅ 100% |
+---
 ## 🔧 Tools & Skills
 - Nmap | Wireshark | Kali Linux
 - TCP/IP | DNS | ICMP | NAT
