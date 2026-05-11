@@ -54,6 +54,9 @@ Real world blue team investigations using network forensics.
 - Risk Assessment | Security Policy Writing
 
 ---
+| [Oski](CyberDefenders-Writeups/oski-writeup.md) | Threat Intel | Easy | ✅ 100% |
+
+---
 
 ## 🛡️ Certifications (In Progress)
 - CompTIA Security+
