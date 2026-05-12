@@ -57,6 +57,9 @@ Real world blue team investigations using network forensics.
 | [Oski](CyberDefenders-Writeups/oski-writeup.md) | Threat Intel | Easy | ✅ 100% |
 
 ---
+| [PoisonedCredentials](CyberDefenders-Writeups/poisonedcredentials-writeup.md) | Network Forensics | Easy | ✅ 100% |
+
+---
 
 ## 🛡️ Certifications (In Progress)
 - CompTIA Security+
