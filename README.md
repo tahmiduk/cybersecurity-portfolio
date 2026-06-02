@@ -37,27 +37,28 @@ applying ISO 27001 and GDPR frameworks.
 
 ---
 
-
-### 🔍 CyberDefenders Labs — SOC Investigations
-Real world blue team investigations using network forensics.
+### 🛡️ CyberDefenders Labs — SOC Investigations
+Real world blue team investigations using network forensics 
+and threat intelligence platforms.
 
 | Lab | Category | Difficulty | Status |
 |---|---|---|---|
 | [WebStrike](CyberDefenders-Writeups/webstrike-writeup.md) | Network Forensics | Easy | ✅ 100% |
+| [Oski](CyberDefenders-Writeups/oski-writeup.md) | Threat Intel | Easy | ✅ 100% |
+| [PoisonedCredentials](CyberDefenders-Writeups/poisonedcredentials-writeup.md) | Network Forensics | Easy | ✅ 100% |
+| [Yellow RAT](CyberDefenders-Writeups/yellowrat-writeup.md) | Threat Intel | Easy | ✅ 100% |
+
 ---
+
 ## 🔧 Tools & Skills
 - Nmap | Wireshark | Kali Linux
 - TCP/IP | DNS | ICMP | NAT
 - Firewalls | VPNs | SSL/TLS
 - SIEM | Log Analysis
+- VirusTotal | ANY.RUN | Threat Intelligence
 - GRC Frameworks | ISO 27001 | GDPR
 - Risk Assessment | Security Policy Writing
-
----
-| [Oski](CyberDefenders-Writeups/oski-writeup.md) | Threat Intel | Easy | ✅ 100% |
-
----
-| [PoisonedCredentials](CyberDefenders-Writeups/poisonedcredentials-writeup.md) | Network Forensics | Easy | ✅ 100% |
+- MITRE ATT&CK Framework
 
 ---
 
